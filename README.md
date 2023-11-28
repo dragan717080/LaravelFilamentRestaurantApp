@@ -1,8 +1,6 @@
-# Restaurant App  🍕 🍔 🍟 🌭 🍿 🥓 🍖 🍗 🥩 🥪 🌮 🌯 🥙 🍜
+# Restaurant App  🍕 🍔 🍟 🌭 🍿 🥓 🌯 🥙 🍜
 
 # <a name="no-link"></a>Restaurant App
-
-# <a name="no-link"></a>Books App
 
 This project is a restaurant web application built using the Laravel framework for the backend, Filament as content management system, and MySQL as the database.
 
